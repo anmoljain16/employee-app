@@ -35,11 +35,14 @@ git clone https://github.com/anmoljain16/employee-app.git
 
 ```
 cd employee-app
+```
+```
 npm install
 ```
+
 ## Configure the environment variables
 
-Rename the `.env.example` file to `.env` and update the necessary variables, such as the MongoDB connection URL.
+- Rename the `.env.example` file to `.env` and update the necessary variables, such as the MongoDB connection URL.
 
 ## Start the application
 
