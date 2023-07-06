@@ -30,10 +30,19 @@ Before running the application, ensure that you have the following installed:
 ```
 git clone https://github.com/anmoljain16/employee-app.git
 ```
+
+## Install the dependencies
+
 ```
 cd employee-app
 npm install
 ```
+## Configure the environment variables
+
+Rename the `.env.example` file to `.env` and update the necessary variables, such as the MongoDB connection URL.
+
+## Start the application
+
 ```
 npm start
 ```
