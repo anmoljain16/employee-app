@@ -44,7 +44,7 @@ The application will be running at `http://localhost:3000`.
 
 - **GET /api/employees**: Retrieve a list of all employees.
 - **GET /api/employee/:id**: Retrieve an employee by their ID.
-- **POST /api/employee**: Add a new employee.
+- **PATCH /api/employee**: Add a new employee.
 - **PUT /api/employee/:id**: Update an existing employee by their ID.
 - **DELETE /api/employee/:id**: Delete an employee by their ID.
 
